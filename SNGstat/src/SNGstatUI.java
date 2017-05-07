@@ -868,6 +868,9 @@ public class SNGstatUI extends javax.swing.JFrame {
         places[10] = Integer.parseInt(this.jLabel20.getText());
        // places[10] = Integer.parseInt(this.jLabel20.getText());
 
+        // places[10] = Integer.parseInt(this.jLabel20.getText());
+        // places[10] = Integer.parseInt(this.jLabel20.getText());
+
         double result = 0;
         for(int i = 0; i < 11; ++i)
         {
